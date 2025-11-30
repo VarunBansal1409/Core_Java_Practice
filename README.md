@@ -1,1 +1,2 @@
 # Core_Java_Practice
+"This repository is a curated collection of the Core Java concepts, resources, and projects I’ve explored throughout my learning journey. It covers fundamental topics like OOP principles, control flow, data types, and collections, as well as advanced areas such as multithreading, exception handling, file I/O, and Java 8+ features. This compilation reflects my growth in building robust, modular, and efficient applications using Java, with each concept supported by clear examples designed to deepen understanding and strengthen practical coding skills."
